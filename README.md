@@ -53,4 +53,3 @@ Check out the live demo here: [eLearning Website Demo](https://nourhan123essam.g
    cd project-directory
    ```
 3. Open `index.html` in your browser.
-4. 
